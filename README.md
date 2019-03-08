@@ -1,2 +1,2 @@
 # MyTestScripts
-LocatorTechniques, TestCases, GridFiles, 
+LocatorTechniques, TestCases, GridFiles
